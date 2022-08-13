@@ -108,11 +108,11 @@
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
               <Image iconType="3" name="/icons/AddNewBookIcons/icons8_Books_52px_1.png"/>
             </Property>
-            <Property name="text" type="java.lang.String" value=" Return Book"/>
+            <Property name="text" type="java.lang.String" value="  LIST OF LOANS"/>
           </Properties>
           <Constraints>
             <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-              <AbsoluteConstraints x="630" y="50" width="230" height="-1"/>
+              <AbsoluteConstraints x="600" y="60" width="280" height="-1"/>
             </Constraint>
           </Constraints>
         </Component>

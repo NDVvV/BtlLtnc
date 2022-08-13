@@ -118,8 +118,8 @@ public class IssuebookDetails extends javax.swing.JFrame {
         jLabel13.setFont(new java.awt.Font("Tahoma", 0, 25)); // NOI18N
         jLabel13.setForeground(new java.awt.Color(255, 51, 51));
         jLabel13.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons/AddNewBookIcons/icons8_Books_52px_1.png"))); // NOI18N
-        jLabel13.setText(" Return Book");
-        jPanel1.add(jLabel13, new org.netbeans.lib.awtextra.AbsoluteConstraints(630, 50, 230, -1));
+        jLabel13.setText("  LIST OF LOANS");
+        jPanel1.add(jLabel13, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 60, 280, -1));
 
         jPanel3.setBackground(new java.awt.Color(255, 51, 51));
 
